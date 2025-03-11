@@ -1,5 +1,7 @@
 Various Collab projects from computer vision.
+
 Links
+
 Numpy and Pandas demo:
 https://colab.research.google.com/drive/158s9iISNzwC31ERjg-B1-rqeiAJgB5V4?usp=sharing
 Image colorizer using Deoldify model:
